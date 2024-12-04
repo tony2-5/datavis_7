@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+text,label {
+  font-weight: bold;
+}
+
+circle {
+  stroke-width: 2px;
+}
