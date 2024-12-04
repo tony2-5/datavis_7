@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c716b4b5.css","mappings":"AAAA,WACE,YACF,CAEA,WACE,eACF,CAEA,OACE,gBACF","sources":["App.css"],"sourcesContent":[".container {\n  display: flex;\n}\n\ntext,label {\n  font-weight: bold;\n}\n\ncircle {\n  stroke-width: 2px;\n}"],"names":[],"sourceRoot":""}
